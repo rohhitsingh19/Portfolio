@@ -1,6 +1,6 @@
 'use client';
 
-export function Navigationbar () {
+export function Navbar () {
   return (
     <div>
       hello world
